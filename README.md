@@ -7,10 +7,12 @@ A native macOS menu bar app for your [Synthetic](https://synthetic.new) API quot
 The menu bar shows your weekly quota at a glance:
 
 ```
-✦ 72%
+✦ 78%
 ```
 
 Click it for a floating glass panel with your full quota status:
+
+![Syn Usage — Liquid Glass panel showing weekly token quota, rolling 5h requests, and hourly search usage](Assets/screenshot.png)
 
 | Section | Shows |
 |---|---|
